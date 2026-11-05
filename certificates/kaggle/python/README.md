@@ -11,7 +11,7 @@
 
 The certificate image or verification link will be added here.
 
-- **Certificate verification URL:** To be added
+- **Certificate verification URL:** [View Kaggle Python Certificate](https://www.kaggle.com/learn/certification/arhami12/python)
 - **Completion date:** To be added
 
 <escape>##</escape> Practical Application
