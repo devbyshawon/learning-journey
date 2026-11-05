@@ -62,6 +62,23 @@ My focus is to learn the concept deeply, practice them consistently, implement s
 
 I aim to maintain a documented and practical learning journey.
 
+## Repository Navigation
+
+Explore the different sections of my learning journey:
+
+| Section | Description |
+|---|---|
+| [AI/ML Roadmap](roadmap/ai-ml-roadmap.md) | My structured AI and Machine Learning learning roadmap |
+| [Progress Tracker](roadmap/progress-tracker.md) | Courses, skills, and milestones progress |
+| [Technical Notes](notes/README.md) | Personal technical notes and explanations |
+| [Learning Resources](resources/learning-resources.md) | Curated courses, documentation, and research resources |
+| [Python Certificate](certificates/kaggle/python/README.md) | Kaggle Python certification record |
+| [Pandas Certificate](certificates/kaggle/pandas/README.md) | Kaggle Pandas certification record |
+
+---
+
+**Repository Status:** Actively maintained and updated as I progress.
+
 ---
 
 **Maintained by:** MD. Shawon Hossain  
